@@ -1,6 +1,6 @@
 # Hungarian Gas Market Competition Analysis
 
-Abstract and Result:
+Abstract and Results:
 ---
 
 #todo (also see the documentation)
