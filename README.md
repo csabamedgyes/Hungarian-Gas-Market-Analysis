@@ -1,6 +1,6 @@
 # Hungarian Gas Stations Competition Analysis
 
-Abstract:
+Abstract and Result:
 ---
 
 #todo (also see the documentation)
