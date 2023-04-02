@@ -1,4 +1,4 @@
-# Hungarian Gas Stations Competition Analysis
+# Hungarian Gas Market Competition Analysis
 
 Abstract and Result:
 ---
